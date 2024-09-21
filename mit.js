@@ -1,5 +1,5 @@
 var mit = {
-    city: 'Coimbatore',
+    city: 'hyderbad',
     colors: ['pink', 'red'],
     mascot: "robot",
     founded: 1900,
